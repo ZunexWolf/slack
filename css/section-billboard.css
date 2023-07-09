@@ -1,0 +1,43 @@
+.section-billboard {
+    background-color: #4a154b;
+    padding-top: 96px;
+    padding-bottom: 48px;
+    padding-left: 15px;
+    padding-right: 15px;
+    overflow: hidden;
+}
+
+.section-billboard-content {
+  display: flex;
+  flex-direction: column;
+  gap: 32px;
+}
+
+.section-billboard-header {
+  padding: 0 8px;
+}
+
+.section-billboard-video-container {
+  margin-bottom: -7rem;
+  width: 560px;
+}
+
+.section-billboard-video {
+  width: 100%;
+}
+
+.h1-top {
+  color: white;
+  font-family: Slack-Larsseit,"Helvetica Neue",Helvetica,"Segoe UI",Tahoma,Arial,sans-serif;
+  font-size: 32px;
+  text-align: center;
+  margin-top: 0;
+  margin-bottom: 24px;
+  font-weight: 700;
+  line-height: 1.12;
+  letter-spacing: -.8px;
+}
+
+.h1-top-highligt {
+  color: #ecb22e;
+}

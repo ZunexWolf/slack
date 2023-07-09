@@ -1,0 +1,20 @@
+.nav-top {
+    position: absolute;
+    height: 80px;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.nav-top-menu {
+  background: none;
+  border: none;
+  padding-right: 32px;
+  display: flex;
+}
+
+.nav-top-logo {
+  padding-left: 15px;
+  display: flex;
+}

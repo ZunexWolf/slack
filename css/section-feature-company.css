@@ -1,0 +1,17 @@
+.section-feature-company {
+  padding-top: 48px;
+  background-color: #F4EDE4;
+}
+
+.section-feature-company-content {
+  padding: 0 15px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+}
+
+.section-feature-company-logo {
+  max-width: 170px;
+  margin: 10px;
+}
